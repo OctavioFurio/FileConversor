@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <row>
+        <firstColumn>a</firstColumn>
+        <secondColumn>123</secondColumn>
+        <thirdColumn>0.33</thirdColumn>
+    </row>
+    <row>
+        <firstColumn>b</firstColumn>
+        <secondColumn>234</secondColumn>
+        <thirdColumn>0.34</thirdColumn>
+    </row>
+    <row>
+        <firstColumn>c</firstColumn>
+        <secondColumn>345</secondColumn>
+        <thirdColumn>0.35</thirdColumn>
+    </row>
+</root>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<row>
+		<id>1</id>
+		<name>"Johnson Smith and Jones Co."</name>
+		<amount>345.33</amount>
+		<remark>Pays on time</remark>
+	</row>
+	<row>
+		<id>2</id>
+		<name>"Sam ""Mad Dog"" Smith"</name>
+		<amount>993.44</amount>
+	</row>
+	<row>
+		<id>3</id>
+		<name>"Barney & Company"</name>
+		<amount>0</amount>
+		<remark>"Great to work with and always pays with cash."</remark>
+	</row>
+	<row>
+		<id>4</id>
+		<name>Johnson's Automotive</name>
+		<amount>2344</amount>
+	</row>
+</root>
